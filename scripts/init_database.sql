@@ -42,7 +42,7 @@ GO
 CREATE SCHEMA silver;
 GO
 
-CREATE SCHEMA golder;
+CREATE SCHEMA gold;
 GO
 
 
